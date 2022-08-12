@@ -1,5 +1,5 @@
 {
-  "name": "Hassio Addons",
-  "url": "https://github.com/almostserious/hassio-addons/",
-  "maintainer": "ME"
+  "name": "Snapserver",
+  "url": "https://github.com/hjbotha/hassio-addons",
+  "maintainer": "Henning Botha"
 }
